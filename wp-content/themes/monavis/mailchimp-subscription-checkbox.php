@@ -1,0 +1,1 @@
+<?php if ( !defined('YITH_WCMC') ) {  exit; } ?><div class="checkbox"><input id="yith_wcmc_subscribe_me" type="checkbox" name="yith_wcmc_subscribe_me" value="yes" checked="checked"/><label for="yith_wcmc_subscribe_me"><?php print(esc_html( $checkbox_label )); ?></label></div>

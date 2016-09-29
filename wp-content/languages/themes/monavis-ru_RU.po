@@ -1,0 +1,1382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Monavis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jul 29 2015 20:19:24 GMT+0300 (Финляндия (лето))\n"
+"PO-Revision-Date: Mon Apr 25 2016 17:53:18 GMT+0300 (Финляндия (лето))\n"
+"Last-Translator: madmin <iskradev.net@gmail.com>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: ru_RU"
+
+#. Name of the template
+msgid "Decoration Service"
+msgstr ""
+
+#. Name of the template
+msgid "Design"
+msgstr ""
+
+#. Name of the template
+msgid "Interior Design"
+msgstr ""
+
+#. Name of the template
+msgid "Contacts"
+msgstr ""
+
+#. Name of the template
+msgid "Creative Group"
+msgstr ""
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:10
+msgid "<i class=\"glyphicon glyphicon-chevron-left\"></i>"
+msgstr ""
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:11
+msgid "<i class=\"glyphicon glyphicon-chevron-right\"></i>"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:57
+msgid "Page options"
+msgstr ""
+
+#. Name of the theme
+msgid "Monavis"
+msgstr ""
+
+#. Author of the theme
+msgid "Iskra"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://digital.iskra.ua/"
+msgstr ""
+
+#: ../../themes/monavis/single-project.php:1 ../../themes/monavis/taxonomy-master-
+#: type.php:1 ../../themes/monavis/archive-project.php:1 ../..
+#: themes/monavis/archive-decoration.php:1 ../../themes/monavis/taxonomy-
+#: product_cat.php:1 ../../themes/monavis/decoration-service.php:1 ../..
+#: themes/monavis/taxonomy-decoration-type.php:1 ../../themes/monavis/literature.
+#: php:1 ../../themes/monavis/design.php:1 ../../themes/monavis/interior-design.
+#: php:1 ../../themes/monavis/taxonomy-design-type.php:1 ../..
+#: themes/monavis/archive-master.php:1 ../../themes/monavis/archive.php:1 ../..
+#: themes/monavis/archive-literature.php:1 ../../themes/monavis/single.php:1 ../.
+#: ./themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ..
+#: ../themes/monavis/contacts.php:1 ../../themes/monavis/archive-product.php:1 ..
+#: ../themes/monavis/single-decoration.php:1 ../../themes/monavis/single-master.
+#: php:1 ../../themes/monavis/page.php:1 ../../themes/monavis/creative-group.php:
+#: 1 ../../themes/monavis/category.php:1
+msgid "All products"
+msgstr "Все товары"
+
+#: ../../themes/monavis/single-project.php:1 ../../themes/monavis/taxonomy-master-
+#: type.php:1 ../../themes/monavis/archive-project.php:1 ../..
+#: themes/monavis/archive-decoration.php:1 ../../themes/monavis/taxonomy-
+#: product_cat.php:1 ../../themes/monavis/decoration-service.php:1 ../..
+#: themes/monavis/taxonomy-decoration-type.php:1 ../../themes/monavis/literature.
+#: php:1 ../../themes/monavis/design.php:1 ../../themes/monavis/interior-design.
+#: php:1 ../../themes/monavis/taxonomy-design-type.php:1 ../..
+#: themes/monavis/archive-master.php:1 ../../themes/monavis/archive.php:1 ../..
+#: themes/monavis/archive-literature.php:1 ../../themes/monavis/single.php:1 ../.
+#: ./themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ..
+#: ../themes/monavis/contacts.php:1 ../../themes/monavis/archive-product.php:1 ..
+#: ../themes/monavis/single-decoration.php:1 ../../themes/monavis/single-master.
+#: php:1 ../../themes/monavis/page.php:1 ../../themes/monavis/creative-group.php:
+#: 1 ../../themes/monavis/category.php:1
+msgid "Sale products"
+msgstr "Акционные товары"
+
+#: ../../themes/monavis/single-project.php:1 ../../themes/monavis/func/posttypes.
+#: php:142
+msgid "All projects"
+msgstr "Все прокеты"
+
+#: ../../themes/monavis/single-project.php:1
+msgid "Recommended decoration"
+msgstr "Рекомендованный декор"
+
+#: ../../themes/monavis/single-project.php:1 ../../themes/monavis/single-project.
+#: php:1
+msgid "Order design"
+msgstr "Заказать"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/taxonomy-
+#: master-type.php:1 ../../themes/monavis/decoration.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-master.php:1 ../..
+#: themes/monavis/single-master.php:1
+msgid "Take a question"
+msgstr "Задать вопрос"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/single-
+#: master.php:1
+msgid "Questions"
+msgstr "Вопросы"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/taxonomy-
+#: master-type.php:1 ../../themes/monavis/single-master.php:1 ../..
+#: themes/monavis/single-master.php:1 ../../themes/monavis/single-master.php:1
+msgid "Course"
+msgstr "Записатсья"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: ../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Cart"
+msgstr "Корзина"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: ../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1 ../..
+#: themes/monavis/order/order-details.php:1 ../../themes/monavis/checkout/form-
+#: pay.php:1 ../../themes/monavis/checkout/review-order.php:1 ../..
+#: themes/monavis/cart/cart.php:1
+msgid "Product"
+msgstr "Товар"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: ../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Qt-ity"
+msgstr "Кол-во"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: ../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1 ../..
+#: themes/monavis/cart/cart.php:1
+msgid "Price"
+msgstr "Цена"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: ../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Products:"
+msgstr "Товары:"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: ../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1 ../..
+#: themes/monavis/checkout/thankyou.php:1
+msgid "Total:"
+msgstr "Всего: "
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: ../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Submit order"
+msgstr "Подтвердить заказ"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: ../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Go to cart"
+msgstr "Перейти в корзину"
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/taxonomy-
+#: master-type.php:1 ../../themes/monavis/taxonomy-master-type.php:1 ../..
+#: themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:1 ..
+#: ../themes/monavis/index.php:1 ../../themes/monavis/index.php:1 ../..
+#: themes/monavis/index.php:1 ../../themes/monavis/taxonomy-product_cat.php:1 ..
+#: ../themes/monavis/taxonomy-product_cat.php:1 ../../themes/monavis/taxonomy-
+#: product_cat.php:1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/literature.php:1 ../..
+#: themes/monavis/literature.php:1 ../../themes/monavis/literature.php:1 ../..
+#: themes/monavis/archive-master.php:1 ../../themes/monavis/archive-master.php:1
+#: ../../themes/monavis/archive-master.php:1 ../../themes/monavis/archive-master.
+#: php:1 ../../themes/monavis/archive.php:1 ../../themes/monavis/archive.php:1 ..
+#: ../themes/monavis/archive.php:1 ../../themes/monavis/archive.php:1 ../..
+#: themes/monavis/archive-literature.php:1 ../../themes/monavis/archive-
+#: literature.php:1 ../../themes/monavis/archive-literature.php:1 ../..
+#: themes/monavis/archive-literature.php:1 ../../themes/monavis/single.php:1 ../.
+#: ./themes/monavis/single.php:1 ../../themes/monavis/single.php:1 ../..
+#: themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/sidebar.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: themes/monavis/sidebar.php:1 ../../themes/monavis/decoration.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/decoration.php:1 ../..
+#: themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/single-product.php:1 ../../themes/monavis/single-product.php:
+#: 1 ../../themes/monavis/single-product.php:1 ../../themes/monavis/archive-
+#: product.php:1 ../../themes/monavis/archive-product.php:1 ../..
+#: themes/monavis/archive-product.php:1 ../../themes/monavis/archive-product.php:
+#: 1 ../../themes/monavis/single-master.php:1 ../../themes/monavis/single-master.
+#: php:1 ../../themes/monavis/single-master.php:1 ../../themes/monavis/single-
+#: master.php:1 ../../themes/monavis/page.php:1 ../../themes/monavis/page.php:1 ..
+#: ../themes/monavis/page.php:1 ../../themes/monavis/page.php:1 ../..
+#: themes/monavis/category.php:1 ../../themes/monavis/category.php:1 ../..
+#: themes/monavis/category.php:1 ../../themes/monavis/category.php:1
+msgid "Show all"
+msgstr "Показать все"
+
+#: ../../themes/monavis/archive-decoration.php:1 ../../themes/monavis/taxonomy-
+#: decoration-type.php:1
+msgid "Photo"
+msgstr "Фото"
+
+#: ../../themes/monavis/taxonomy-product_cat.php:1 ../../themes/monavis/single-
+#: product.php:1
+msgid "Regular price:"
+msgstr "Цена:"
+
+#: ../../themes/monavis/taxonomy-product_cat.php:1 ../../themes/monavis/single-
+#: product.php:1
+msgid "Sale price:"
+msgstr "Со скидкой: "
+
+#: ../../themes/monavis/decoration-service.php:1 ../../themes/monavis/decoration.
+#: php:1
+msgid "Decoration gallery"
+msgstr "Галерея декора"
+
+#: ../../themes/monavis/decoration-service.php:1 ../../themes/monavis/taxonomy-
+#: decoration-type.php:1 ../../themes/monavis/taxonomy-decoration-type.php:1 ../..
+#: themes/monavis/interior-design.php:1 ../../themes/monavis/taxonomy-design-
+#: type.php:1 ../../themes/monavis/decoration.php:1 ../../themes/monavis/single-
+#: decoration.php:1
+msgid "See all"
+msgstr "Посмотреть все"
+
+#: ../../themes/monavis/taxonomy-decoration-type.php:1 ../..
+#: themes/monavis/single-decoration.php:1
+msgid "Recommended products"
+msgstr "Рекомендованный товар"
+
+msgid "Literature"
+msgstr "Литература"
+
+#: ../../themes/monavis/literature.php:1 ../../themes/monavis/archive-literature.
+#: php:1
+msgid "Order"
+msgstr "Заказать"
+
+#: ../../themes/monavis/functions.php:91
+#, php-format
+msgid "Page %s"
+msgstr "Страница "
+
+#: ../../themes/monavis/functions.php:106
+msgid "Header Menu"
+msgstr "Верхнее меню"
+
+#: ../../themes/monavis/functions.php:107
+msgid "Footer Menu"
+msgstr "Меню в подвале"
+
+#: ../../themes/monavis/functions.php:133
+msgid "Footer Sidebar"
+msgstr "Сайдбар в подвале"
+
+#: ../../themes/monavis/functions.php:141
+msgid "Side Sidebar"
+msgstr "Боковой сайдбар"
+
+#: ../../themes/monavis/functions.php:361
+msgid "Home page"
+msgstr "Главная"
+
+#: ../../themes/monavis/functions.php:363
+msgid "Count"
+msgstr "Итог"
+
+#: ../../themes/monavis/functions.php:523 ../../themes/monavis/functions.php:523 .
+#: ./../themes/monavis/func/admin-options.php:15
+msgid "Theme settings"
+msgstr "Опции темы"
+
+#: ../../themes/monavis/functions.php:593
+#, php-format
+msgid "Show all %s"
+msgstr "Показать все"
+
+#: ../../themes/monavis/functions.php:699
+msgid "News for"
+msgstr "Новости для"
+
+#: ../../themes/monavis/functions.php:724
+msgid "uah"
+msgstr "грн."
+
+#: ../../themes/monavis/interior-design.php:1
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Decoration"
+msgstr "Декор"
+
+#: ../../themes/monavis/decoration.php:1
+msgid "Read more"
+msgstr "Читать дальше"
+
+#: ../../themes/monavis/single-product.php:1
+msgid "In stock"
+msgstr "В наличии"
+
+#: ../../themes/monavis/single-product.php:1
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: ../../themes/monavis/single-product.php:1 ../../themes/monavis/func/metabox.
+#: php:132 ../../themes/monavis/func/metabox.php:163
+msgid "Related products"
+msgstr "Похожие продукты"
+
+#: ../../themes/monavis/contacts.php:1 ../../themes/monavis/order/order-details.
+#: php:1 ../../themes/monavis/order/order-details.php:1
+msgid "Address"
+msgstr "Адрес"
+
+#: ../../themes/monavis/contacts.php:1
+msgid "Map"
+msgstr "Карта"
+
+#: ../../themes/monavis/contacts.php:1
+msgid "Phones"
+msgstr "Телефоны"
+
+#: ../../themes/monavis/contacts.php:1
+msgid "Call"
+msgstr "Звонок"
+
+#: ../../themes/monavis/contacts.php:1
+msgid "Working regime"
+msgstr "Режим работы"
+
+#: ../../themes/monavis/single-master.php:1 ../../themes/monavis/func/dynamic-
+#: metabox.php:23
+msgid "Timetable"
+msgstr "Расписание"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Order Details"
+msgstr "Детали заказа"
+
+#: ../../themes/monavis/order/order-details.php:1 ../..
+#: themes/monavis/checkout/review-order.php:1 ../..
+#: themes/monavis/checkout/review-order.php:1 ../../themes/monavis/cart/cart-
+#: totals.php:1 ../../themes/monavis/cart/cart.php:1
+msgid "Total"
+msgstr "Всего "
+
+#: ../../themes/monavis/order/order-details.php:1
+#, php-format
+msgid "Download file%s"
+msgstr "Скачать файл"
+
+#: ../../themes/monavis/order/order-details.php:1 ../..
+#: themes/monavis/order/order-details.php:1
+#, php-format
+msgid "(Includes %s)"
+msgstr "(Включает %s)"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Refunded:"
+msgstr "Отклонено\n"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Note:"
+msgstr "Дополнительно:"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "First Name"
+msgstr "Имя"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Company Name"
+msgstr "Название компании"
+
+#: ../../themes/monavis/order/order-details.php:1 ../..
+#: themes/monavis/cart/shipping-calculator.php:1
+msgid "City"
+msgstr "Город"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "County"
+msgstr "Страна"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Postcode"
+msgstr "Почтовый индекс"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Country"
+msgstr "Страна"
+
+#: ../../themes/monavis/order/order-details.php:1 ../../themes/monavis/func/theme-
+#: options.php:47
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Email Address"
+msgstr "Email"
+
+#: ../../themes/monavis/func/woo-commerce.php:8
+msgid "Proceed to Checkout"
+msgstr "Подтвердить заказ"
+
+#: ../../themes/monavis/func/woo-commerce.php:46
+msgid "required"
+msgstr "обязательное"
+
+#: ../../themes/monavis/func/woo-commerce.php:104 ../..
+#: themes/monavis/cart/shipping-calculator.php:1
+msgid "Select a country&hellip;"
+msgstr "Выбрать страну"
+
+#: ../../themes/monavis/func/woo-commerce.php:112
+msgid "Update country"
+msgstr "Обновить страну"
+
+#: ../../themes/monavis/func/woo-commerce.php:156 ../..
+#: themes/monavis/cart/shipping-calculator.php:1
+msgid "Select a state&hellip;"
+msgstr "Выбрать область"
+
+#: ../../themes/monavis/func/woo-commerce.php:316
+msgid "Choose an option"
+msgstr "Выбрать"
+
+#: ../../themes/monavis/func/posttypes.php:14
+msgid "Slides"
+msgstr "Слайды"
+
+#: ../../themes/monavis/func/posttypes.php:15
+msgid "Slide"
+msgstr "Слайд"
+
+#: ../../themes/monavis/func/posttypes.php:16 ../../themes/monavis/func/posttypes.
+#: php:18
+msgid "Add Slide"
+msgstr "Добавить слайд"
+
+#: ../../themes/monavis/func/posttypes.php:17
+msgid "All Slides"
+msgstr "Все слайды"
+
+#: ../../themes/monavis/func/posttypes.php:19
+msgid "Edit Slide"
+msgstr ""
+"Редактировать \n"
+"слайд"
+
+#: ../../themes/monavis/func/posttypes.php:20
+msgid "New Slide"
+msgstr ""
+"Новый \n"
+"слайд"
+
+#: ../../themes/monavis/func/posttypes.php:21
+msgid "Show Slide"
+msgstr ""
+"Показать \n"
+"слайд"
+
+#: ../../themes/monavis/func/posttypes.php:22
+msgid "Search Slide"
+msgstr "Искать слайд"
+
+#: ../../themes/monavis/func/posttypes.php:23
+msgid "Slides not found"
+msgstr "Слайды не найдены"
+
+#: ../../themes/monavis/func/posttypes.php:24
+msgid "Slides not found in trash"
+msgstr "В корзине нет слайдов"
+
+#: ../../themes/monavis/func/posttypes.php:59 ../../themes/monavis/func/posttypes.
+#: php:61
+msgid "Add literature"
+msgstr "Добавить литературу"
+
+#: ../../themes/monavis/func/posttypes.php:60
+msgid "All literature"
+msgstr "Вся литература"
+
+#: ../../themes/monavis/func/posttypes.php:62
+msgid "Edit literature"
+msgstr "Редактировать литературу"
+
+#: ../../themes/monavis/func/posttypes.php:63
+msgid "New literature"
+msgstr "Новая литература "
+
+#: ../../themes/monavis/func/posttypes.php:64
+msgid "Show literature"
+msgstr "Показать литературу"
+
+#: ../../themes/monavis/func/posttypes.php:65
+msgid "Search literature"
+msgstr "Поиск литературы "
+
+#: ../../themes/monavis/func/posttypes.php:66
+msgid "Literature not found"
+msgstr "Литература не найдена"
+
+#: ../../themes/monavis/func/posttypes.php:67
+msgid "Literature not found in trash"
+msgstr "В корзине нет литературы"
+
+#: ../../themes/monavis/func/posttypes.php:98
+msgid "Team"
+msgstr "Команда"
+
+#: ../../themes/monavis/func/posttypes.php:99
+msgid "Team member"
+msgstr "Член команды"
+
+#: ../../themes/monavis/func/posttypes.php:100 ../..
+#: themes/monavis/func/posttypes.php:102
+msgid "Add team member"
+msgstr "Добавить члена команды "
+
+#: ../../themes/monavis/func/posttypes.php:101
+msgid "All team members"
+msgstr "Все члены команды"
+
+#: ../../themes/monavis/func/posttypes.php:103
+msgid "Edit team member"
+msgstr "Редактировать члена команды"
+
+#: ../../themes/monavis/func/posttypes.php:104
+msgid "New team member"
+msgstr "Новый член команды"
+
+#: ../../themes/monavis/func/posttypes.php:105
+msgid "Show team member"
+msgstr "Показать члена команды"
+
+#: ../../themes/monavis/func/posttypes.php:106
+msgid "Search team member"
+msgstr "Искать члена команды"
+
+#: ../../themes/monavis/func/posttypes.php:107
+msgid "Team member not found"
+msgstr "Член команды не найден"
+
+#: ../../themes/monavis/func/posttypes.php:108
+msgid "Team member not found in trash"
+msgstr "В корзине нет членов команды"
+
+#: ../../themes/monavis/func/posttypes.php:139
+msgid "Projects"
+msgstr "Проекты"
+
+#: ../../themes/monavis/func/posttypes.php:140
+msgid "Project"
+msgstr "Проект"
+
+#: ../../themes/monavis/func/posttypes.php:141 ../..
+#: themes/monavis/func/posttypes.php:143
+msgid "Add project"
+msgstr "Добавить проект "
+
+#: ../../themes/monavis/func/posttypes.php:144
+msgid "Edit project"
+msgstr ""
+"Редактировать \n"
+"проект"
+
+#: ../../themes/monavis/func/posttypes.php:145
+msgid "New project"
+msgstr "Новый проект"
+
+#: ../../themes/monavis/func/posttypes.php:146
+msgid "Show project"
+msgstr ""
+"Показать \n"
+"проект"
+
+#: ../../themes/monavis/func/posttypes.php:147
+msgid "Search projects"
+msgstr "Поиск проектов"
+
+#: ../../themes/monavis/func/posttypes.php:148
+msgid "Projects not found"
+msgstr "Проекты не найдены"
+
+#: ../../themes/monavis/func/posttypes.php:149
+msgid "Projects not found in trash"
+msgstr "В корзине нет проектов"
+
+#: ../../themes/monavis/func/posttypes.php:182 ../..
+#: themes/monavis/func/posttypes.php:184
+msgid "Add decoration"
+msgstr "Добавить декор"
+
+#: ../../themes/monavis/func/posttypes.php:183
+msgid "All decorations"
+msgstr "Весь декор"
+
+#: ../../themes/monavis/func/posttypes.php:185
+msgid "Edit decoration"
+msgstr ""
+"Редактировать \n"
+"декор"
+
+#: ../../themes/monavis/func/posttypes.php:186
+msgid "New decoration"
+msgstr "Новый декор"
+
+#: ../../themes/monavis/func/posttypes.php:187
+msgid "Show decoration"
+msgstr ""
+"Показать \n"
+"декор"
+
+#: ../../themes/monavis/func/posttypes.php:188
+msgid "Search decorations"
+msgstr "Искать декор"
+
+#: ../../themes/monavis/func/posttypes.php:189
+msgid "Decorations not found"
+msgstr "Декор не найден"
+
+#: ../../themes/monavis/func/posttypes.php:190
+msgid "Decorations not found in trash"
+msgstr "В корзине нет декоров"
+
+#: ../../themes/monavis/func/posttypes.php:221
+msgid "Study"
+msgstr "Обучение"
+
+#: ../../themes/monavis/func/posttypes.php:222
+msgid "Master class"
+msgstr "Мастер-класс"
+
+#: ../../themes/monavis/func/posttypes.php:223 ../..
+#: themes/monavis/func/posttypes.php:225
+msgid "Add master class"
+msgstr "Добавить мастер-класс"
+
+#: ../../themes/monavis/func/posttypes.php:224
+msgid "All masters classes"
+msgstr "Все мастер-классы"
+
+#: ../../themes/monavis/func/posttypes.php:226
+msgid "Edit master class"
+msgstr "Редактировать мастер-класс"
+
+#: ../../themes/monavis/func/posttypes.php:227
+msgid "New master class"
+msgstr "Новый мастер-класс"
+
+#: ../../themes/monavis/func/posttypes.php:228
+msgid "Show master class"
+msgstr "Показать мастер-класс"
+
+#: ../../themes/monavis/func/posttypes.php:229
+msgid "Search masters classes"
+msgstr "Искать мастер-класс"
+
+#: ../../themes/monavis/func/posttypes.php:230
+msgid "Master classes not found"
+msgstr "Мастер-классы не найдены"
+
+#: ../../themes/monavis/func/posttypes.php:231
+msgid "Master classes not found in trash"
+msgstr "В корзине нет мастер-классов"
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:56
+msgid "First"
+msgstr "Первая\n"
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:58
+msgid "previous"
+msgstr "предыдущая\n"
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:73
+msgid "next"
+msgstr "следующая"
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:77
+msgid "Last"
+msgstr "Последняя"
+
+#: ../../themes/monavis/func/metabox.php:12
+msgid "slide options"
+msgstr "Настройки слайда"
+
+#: ../../themes/monavis/func/metabox.php:21
+msgid "Team Details"
+msgstr "Детали команды"
+
+#: ../../themes/monavis/func/metabox.php:30
+msgid "Decortion options"
+msgstr "Настройки декора"
+
+#: ../../themes/monavis/func/metabox.php:39
+msgid "Project options"
+msgstr "Настройки проекта"
+
+#: ../../themes/monavis/func/metabox.php:48
+msgid "Literature details"
+msgstr "Детали литературы"
+
+#: ../../themes/monavis/func/metabox.php:72
+msgid "Main"
+msgstr "Главная "
+
+#: ../../themes/monavis/func/metabox.php:73
+msgid "Show on homepage"
+msgstr "Показывать на главной странице"
+
+#: ../../themes/monavis/func/metabox.php:88
+msgid "Position"
+msgstr "Положение"
+
+#: ../../themes/monavis/func/metabox.php:103
+msgid "Author"
+msgstr "Автор"
+
+#: ../../themes/monavis/func/metabox.php:192
+msgid "Design types"
+msgstr "Типы дизайна"
+
+#: ../../themes/monavis/func/admin-options.php:7
+msgid "Setting saved"
+msgstr "Настройки сохранены"
+
+#: ../../themes/monavis/func/admin-options.php:8
+msgid "Settings reset"
+msgstr "Сброс настроек"
+
+#: ../../themes/monavis/func/admin-options.php:18
+msgid "General"
+msgstr "Общее"
+
+#: ../../themes/monavis/func/admin-options.php:19
+msgid "Socials"
+msgstr "Социальные сети"
+
+#: ../../themes/monavis/func/admin-options.php:20 ../../themes/monavis/func/theme-
+#: options.php:40
+msgid "Contact"
+msgstr "Контакты"
+
+#: ../../themes/monavis/func/admin-options.php:21
+msgid "Messages"
+msgstr "Сообщения"
+
+#: ../../themes/monavis/func/admin-options.php:221
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: ../../themes/monavis/func/admin-options.php:229
+msgid "Reset"
+msgstr "Сбросить"
+
+#: ../../themes/monavis/func/breadcrumbs.php:46
+msgid "Home"
+msgstr "Главная"
+
+#: ../../themes/monavis/func/breadcrumbs.php:87
+msgid "Search results for :"
+msgstr "Результаты поиска для: "
+
+#: ../../themes/monavis/func/breadcrumbs.php:222
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: ../../themes/monavis/func/breadcrumbs.php:231
+msgid "Page"
+msgstr "Страница"
+
+#: ../../themes/monavis/func/theme-options.php:7
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: ../../themes/monavis/func/theme-options.php:9
+msgid "Google Analytics Code"
+msgstr "Код Google Analytics"
+
+#: ../../themes/monavis/func/theme-options.php:10
+msgid "Enter Your google analytics here."
+msgstr "Вставьте код Google Analytics в это поле"
+
+#: ../../themes/monavis/func/theme-options.php:16
+msgid "Social settings"
+msgstr "Настройки социальных сетей"
+
+#: ../../themes/monavis/func/theme-options.php:18
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../../themes/monavis/func/theme-options.php:19
+msgid "Fb link"
+msgstr ""
+"Ссылка на F\n"
+"acebook"
+
+#: ../../themes/monavis/func/theme-options.php:23
+msgid "VK"
+msgstr "Вконтакте"
+
+#: ../../themes/monavis/func/theme-options.php:24
+msgid "VK link"
+msgstr "Ссылка на Вконтакте "
+
+#: ../../themes/monavis/func/theme-options.php:28
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../../themes/monavis/func/theme-options.php:29
+msgid "Pinterest link"
+msgstr ""
+"Ссылка на \n"
+"Pinterest"
+
+#: ../../themes/monavis/func/theme-options.php:33
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../../themes/monavis/func/theme-options.php:34
+msgid "Instagram link"
+msgstr ""
+"Ссылка на \n"
+"Instagram"
+
+#: ../../themes/monavis/func/theme-options.php:42
+msgid "Adress"
+msgstr "Адрес"
+
+#: ../../themes/monavis/func/theme-options.php:43
+msgid "Adress of company"
+msgstr "Адрес компании"
+
+#: ../../themes/monavis/func/theme-options.php:48
+msgid "Company cellphone"
+msgstr "Мобильный телефон компании"
+
+#: ../../themes/monavis/func/theme-options.php:52
+msgid "Mobile"
+msgstr "Мобильный телефон"
+
+#: ../../themes/monavis/func/theme-options.php:53
+msgid "Company mobile phone"
+msgstr "Мобильный телефон компании"
+
+#: ../../themes/monavis/func/theme-options.php:57
+msgid "Google Map Code"
+msgstr ""
+"Код \n"
+"Google Map"
+
+#: ../../themes/monavis/func/theme-options.php:58
+msgid "Enter Your google map here."
+msgstr "Вставьте код карты Goofle в это поле"
+
+#: ../../themes/monavis/func/theme-options.php:62
+msgid "Working hours"
+msgstr "Время работы"
+
+#: ../../themes/monavis/func/theme-options.php:63
+msgid "Shop working hours."
+msgstr "Время работы магазина"
+
+#: ../../themes/monavis/func/theme-options.php:69
+msgid "Message settings"
+msgstr "Настройки сообщений "
+
+#: ../../themes/monavis/func/theme-options.php:71
+msgid "Success"
+msgstr "Успешное"
+
+#: ../../themes/monavis/func/theme-options.php:72
+msgid "Success ajax message"
+msgstr "Сообщение ajax об успешной отправке"
+
+#: ../../themes/monavis/func/theme-options.php:76
+msgid "Empty"
+msgstr "Пустое"
+
+#: ../../themes/monavis/func/theme-options.php:77
+msgid "Empty ajax message"
+msgstr ""
+"Пустое \n"
+"ajax сообщение"
+
+#: ../../themes/monavis/func/theme-options.php:81
+msgid "Send before"
+msgstr "Отправить до"
+
+#: ../../themes/monavis/func/theme-options.php:82
+msgid "Send before ajax message"
+msgstr "Отправить до сообщения ajax"
+
+#: ../../themes/monavis/func/dynamic-metabox.php:44 ../..
+#: themes/monavis/func/dynamic-metabox.php:60
+msgid "Course name"
+msgstr "Название курса"
+
+#: ../../themes/monavis/func/dynamic-metabox.php:44 ../..
+#: themes/monavis/func/dynamic-metabox.php:60
+msgid "Course time"
+msgstr "Время"
+
+#: ../../themes/monavis/func/dynamic-metabox.php:44 ../..
+#: themes/monavis/func/dynamic-metabox.php:60
+msgid "Remove timeline"
+msgstr "Удалить расписание "
+
+#: ../../themes/monavis/func/dynamic-metabox.php:52
+msgid "Add timeline"
+msgstr "Добавить расписание"
+
+#: ../../themes/monavis/func/taxonomies.php:11 ../..
+#: themes/monavis/func/taxonomies.php:21
+msgid "Slide categories"
+msgstr "Категории слайдов"
+
+#: ../../themes/monavis/func/taxonomies.php:12
+msgid "Slide category"
+msgstr "Категория слайда"
+
+#: ../../themes/monavis/func/taxonomies.php:13
+msgid "Search slide category"
+msgstr "Искать категорию слайдов"
+
+#: ../../themes/monavis/func/taxonomies.php:14
+msgid "All slide categories"
+msgstr "Все категории слайдов"
+
+#: ../../themes/monavis/func/taxonomies.php:15
+msgid "Parent slide category"
+msgstr "Родительская категория слайдов"
+
+#: ../../themes/monavis/func/taxonomies.php:16 ../..
+#: themes/monavis/func/taxonomies.php:33 ../../themes/monavis/func/taxonomies.
+#: php:49 ../../themes/monavis/func/taxonomies.php:65
+msgid "Parent"
+msgstr "Родительская "
+
+#: ../../themes/monavis/func/taxonomies.php:17
+msgid "Edit slide category"
+msgstr "Редактировать категорию слайдов"
+
+#: ../../themes/monavis/func/taxonomies.php:18
+msgid "Update slide category"
+msgstr "Обновить категорию слайдов"
+
+#: ../../themes/monavis/func/taxonomies.php:19
+msgid "Add slide category"
+msgstr "Добавить категорию слайдов"
+
+#: ../../themes/monavis/func/taxonomies.php:20
+msgid "New slide category name"
+msgstr "Новая категория слайдов"
+
+#: ../../themes/monavis/func/taxonomies.php:28
+msgid "Decoration types"
+msgstr "Типы декора"
+
+#: ../../themes/monavis/func/taxonomies.php:29
+msgid "Decoration type"
+msgstr "Тип декора"
+
+#: ../../themes/monavis/func/taxonomies.php:30 ../..
+#: themes/monavis/func/taxonomies.php:46 ../../themes/monavis/func/taxonomies.
+#: php:62
+msgid "Search type"
+msgstr "Поиск "
+
+#: ../../themes/monavis/func/taxonomies.php:31 ../..
+#: themes/monavis/func/taxonomies.php:47 ../../themes/monavis/func/taxonomies.
+#: php:63
+msgid "All"
+msgstr "Все "
+
+#: ../../themes/monavis/func/taxonomies.php:32 ../..
+#: themes/monavis/func/taxonomies.php:48 ../../themes/monavis/func/taxonomies.
+#: php:64
+msgid "Parent type"
+msgstr "Родительский тип"
+
+#: ../../themes/monavis/func/taxonomies.php:34 ../..
+#: themes/monavis/func/taxonomies.php:50 ../../themes/monavis/func/taxonomies.
+#: php:66
+msgid "Edit type"
+msgstr "Редактировать тип"
+
+#: ../../themes/monavis/func/taxonomies.php:35 ../..
+#: themes/monavis/func/taxonomies.php:51 ../../themes/monavis/func/taxonomies.
+#: php:67
+msgid "Update type"
+msgstr "обновить тип"
+
+#: ../../themes/monavis/func/taxonomies.php:36 ../..
+#: themes/monavis/func/taxonomies.php:52 ../../themes/monavis/func/taxonomies.
+#: php:68
+msgid "Add types"
+msgstr "Добавить тип"
+
+#: ../../themes/monavis/func/taxonomies.php:37 ../..
+#: themes/monavis/func/taxonomies.php:53 ../../themes/monavis/func/taxonomies.
+#: php:69
+msgid "New type name"
+msgstr "Новое имя типа"
+
+#: ../../themes/monavis/func/taxonomies.php:38 ../..
+#: themes/monavis/func/taxonomies.php:54 ../../themes/monavis/func/taxonomies.
+#: php:70
+msgid "Types"
+msgstr "Типы"
+
+#: ../../themes/monavis/func/taxonomies.php:44
+msgid "Project types"
+msgstr "Типы проектов "
+
+#: ../../themes/monavis/func/taxonomies.php:45
+msgid "Project type"
+msgstr "Тип проекта "
+
+#: ../../themes/monavis/func/taxonomies.php:60
+msgid "Master class types"
+msgstr "Типы мастер-классов"
+
+#: ../../themes/monavis/func/taxonomies.php:61
+msgid "Master class type"
+msgstr "Тип мастер-класса"
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:53
+msgid "Image"
+msgstr "Изображение "
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:54
+msgid "Upload image"
+msgstr "Загрузить изображение"
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:55 ../..
+#: themes/monavis/func/taxonomies-attributes.php:57
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:56
+msgid "Remove"
+msgstr "Убрать"
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:58
+msgid "Select"
+msgstr "Выбрать"
+
+#: ../../themes/monavis/checkout/form-billing.php:1
+msgid "Billing &amp; Shipping"
+msgstr "Доставка и оплата"
+
+#: ../../themes/monavis/checkout/form-billing.php:1
+msgid "Billing Details"
+msgstr "Детали оплаты "
+
+#: ../../themes/monavis/checkout/form-billing.php:1
+msgid "Create an account?"
+msgstr "Создать аккаунт?"
+
+#: ../../themes/monavis/checkout/form-billing.php:1
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Создайте свой аккаунт, введя информацию о себе. Если у вас уже есть учетная "
+"запись, войдите в нее."
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid "Qty"
+msgstr "Кол-во"
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid "Totals"
+msgstr "Всего"
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid "Payment"
+msgstr "Оплата"
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Извините, к сожалению, для Вашего региона нет доступных методов оплаты. "
+"Пожалуйста, свяжитесь с нами, если Вам нужна помощь. "
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid "Pay for order"
+msgstr "Оплатить заказ"
+
+#: ../../themes/monavis/checkout/form-login.php:1
+msgid "Returning customer?"
+msgstr "Уже были у нас?"
+
+#: ../../themes/monavis/checkout/form-login.php:1
+msgid "Click here to login"
+msgstr "Нажмите, чтобы авторизироваться "
+
+#: ../../themes/monavis/checkout/form-login.php:1
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Если Вы уже совершали покупки в нашем магазине, пожалуйста, введите свои "
+"данные. В случае, если вы являетесь новым покупателем, перейдите в раздел "
+"Оплаты и Доставки."
+
+#: ../../themes/monavis/checkout/form-shipping.php:1
+msgid "Ship to a different address?"
+msgstr "Доставить по другому адресу? "
+
+#: ../../themes/monavis/checkout/form-shipping.php:1
+msgid "Additional Information"
+msgstr "Дополнительная информация "
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction."
+msgstr ""
+"К сожалению, Ваш заказ не может быть выполненным, так как банк отклонил "
+"транзакцию."
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "Pay"
+msgstr "Оплатить "
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "My Account"
+msgstr "Мой аккаунт "
+
+#: ../../themes/monavis/checkout/thankyou.php:1 ../..
+#: themes/monavis/checkout/thankyou.php:1
+msgid "Thank you. Your order has been received."
+msgstr "Благодарим. Ваш заказ был принят."
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "Order Number:"
+msgstr "Номер заказа: "
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "Date:"
+msgstr "Дата: "
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "Payment Method:"
+msgstr "Способ оплаты: "
+
+#: ../../themes/monavis/checkout/cart-errors.php:1
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"С Вашим заказом возникли проблемы. Пожалуйста, проверьте корзину прежде чем "
+"совершать покупку. "
+
+#: ../../themes/monavis/checkout/cart-errors.php:1
+msgid "Return To Cart"
+msgstr "Вернуться в корзину"
+
+#: ../../themes/monavis/checkout/form-coupon.php:1
+msgid "Click here to enter your code"
+msgstr "Нажмите, чтобы ввести код"
+
+#: ../../themes/monavis/checkout/form-coupon.php:1 ../../themes/monavis/cart/cart.
+#: php:1
+msgid "Coupon"
+msgstr "Купон"
+
+#: ../../themes/monavis/checkout/form-coupon.php:1 ../../themes/monavis/cart/cart.
+#: php:1
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: ../../themes/monavis/checkout/form-coupon.php:1 ../../themes/monavis/cart/cart.
+#: php:1
+msgid "Apply Coupon"
+msgstr "Принять купон"
+
+#: ../../themes/monavis/checkout/form-checkout.php:1
+msgid "You must be logged in to checkout."
+msgstr "Вы должны зайти в систему, чтобы продолжить "
+
+#: ../../themes/monavis/checkout/form-checkout.php:1
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: ../../themes/monavis/checkout/review-order.php:1 ../..
+#: themes/monavis/cart/cart-totals.php:1
+msgid "Subtotal"
+msgstr "Подытог"
+
+#: ../../themes/monavis/checkout/payment.php:1
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"Поскольку Ваш браузер не поддерживает \n"
+"JavaScript, или он отключен, убедитесь, что Вы нажали кнопку \"Обновить "
+"сумму\" прежде чем совершать покупку. Итоговая стоимость может быть больше, "
+"чем сумма указанная вверху, если Вы не сделаете это."
+
+#: ../../themes/monavis/checkout/payment.php:1
+#, php-format
+msgid ""
+"I have read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr "Я ознакомился и согласен с условиями "
+
+#: ../../themes/monavis/global/quantity-input.php:1
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Кол-во"
+
+#: ../../themes/monavis/cart/cart-totals.php:1
+msgid "Cart Totals"
+msgstr "Всего в корзине"
+
+#: ../../themes/monavis/cart/cart-totals.php:1 ../../themes/monavis/cart/cart-
+#: shipping.php:1 ../../themes/monavis/cart/cart-shipping.php:1
+msgid "Shipping"
+msgstr "Доставка "
+
+#: ../../themes/monavis/cart/cart-totals.php:1
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr " (налоги включены для )"
+
+#: ../../themes/monavis/cart/cart-totals.php:1
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Обратите внимание: расходы на доставку, а также сумма налогов включены и "
+"будут обновлены на основе Ваших данных о способах доставки и оплаты. "
+
+#: ../../themes/monavis/cart/cart-empty.php:1
+msgid "Your cart is currently empty."
+msgstr "Ваша корзина пуста"
+
+#: ../../themes/monavis/cart/cart-empty.php:1
+msgid "Return To Shop"
+msgstr "Вернуться в магазин"
+
+#: ../../themes/monavis/cart/cart.php:1
+msgid "Quantity"
+msgstr "Количество "
+
+#: ../../themes/monavis/cart/cart.php:1 ../../themes/monavis/cart/mini-cart.php:1
+msgid "Remove this item"
+msgstr "Удалить "
+
+#: ../../themes/monavis/cart/cart.php:1
+msgid "Available on backorder"
+msgstr "Доступно для заказа"
+
+#: ../../themes/monavis/cart/cart.php:1
+msgid "Update Cart"
+msgstr "Обновить корзину "
+
+#: ../../themes/monavis/cart/mini-cart.php:1
+msgid "No products in the cart."
+msgstr "В корзине нет продуктов"
+
+#: ../../themes/monavis/cart/shipping-calculator.php:1
+msgid "Calculate Shipping"
+msgstr "Рассчитать стоимость доставки "
+
+#: ../../themes/monavis/cart/shipping-calculator.php:1
+msgid "Update Totals"
+msgstr "Обновить корзину "
+
+#: ../../themes/monavis/cart/cross-sells.php:1
+msgid "You may be interested in&hellip;"
+msgstr "Возможно Вас заинтересует "
+
+#: ../../themes/monavis/cart/cart-shipping.php:1
+#, php-format
+msgid "Shipping #%d"
+msgstr "Доставка "
+
+#: ../../themes/monavis/cart/cart-shipping.php:1
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Пожалуйста, воспользуйтесь расчетом стоимости доставки, чтобы узнать о всех "
+"возможных способах доставки товара"
+
+#: ../../themes/monavis/cart/cart-shipping.php:1
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Пожалуйста, продолжите, и введите свой полный адрес, чтобы узнать о всех "
+"возможных способах доставки."
+
+#: ../../themes/monavis/cart/cart-shipping.php:1
+msgid "Please fill in your details to see available shipping methods."
+msgstr "Пожалуйста, введите свои данные, чтобы узнать о возможных способах доставки. "
+
+#: ../../themes/monavis/cart/cart-shipping.php:1 ../../themes/monavis/cart/cart-
+#: shipping.php:1
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+"Нет возможных способов доставки. Пожалуйста, проверьте корректность "
+"введенных Вами данных, или свяжитесь с нами для получения помощи. "

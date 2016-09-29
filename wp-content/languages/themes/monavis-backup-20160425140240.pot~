@@ -1,0 +1,1337 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Monavis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jul 29 2015 20:19:24 GMT+0300 (Финляндия (лето))\n"
+"POT-Revision-Date: Mon Apr 11 2016 14:36:06 GMT+0300 (ÐÐ¾ÑÑÐ¾ÑÐ½Ð°Ñ "
+"ÐÐ²ÑÐ¾Ð¿Ð° (Ð»ÐµÑÐ¾))\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../themes/monavis\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../../themes/monavis/single-project.php:1 ../../themes/monavis/taxonomy-master-
+#: type.php:1 ../../themes/monavis/archive-project.php:1 ../..
+#: /themes/monavis/archive-decoration.php:1 ../../themes/monavis/taxonomy-
+#: product_cat.php:1 ../../themes/monavis/decoration-service.php:1 ../..
+#: /themes/monavis/taxonomy-decoration-type.php:1 ../../themes/monavis/literature.
+#: php:1 ../../themes/monavis/design.php:1 ../../themes/monavis/interior-design.
+#: php:1 ../../themes/monavis/taxonomy-design-type.php:1 ../..
+#: /themes/monavis/archive-master.php:1 ../../themes/monavis/archive.php:1 ../..
+#: /themes/monavis/archive-literature.php:1 ../../themes/monavis/single.php:1 ../.
+#: ./themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ..
+#: /../themes/monavis/contacts.php:1 ../../themes/monavis/archive-product.php:1 ..
+#: /../themes/monavis/single-decoration.php:1 ../../themes/monavis/single-master.
+#: php:1 ../../themes/monavis/page.php:1 ../../themes/monavis/creative-group.php:
+#: 1 ../../themes/monavis/category.php:1
+msgid "All products"
+msgstr ""
+
+#: ../../themes/monavis/single-project.php:1 ../../themes/monavis/taxonomy-master-
+#: type.php:1 ../../themes/monavis/archive-project.php:1 ../..
+#: /themes/monavis/archive-decoration.php:1 ../../themes/monavis/taxonomy-
+#: product_cat.php:1 ../../themes/monavis/decoration-service.php:1 ../..
+#: /themes/monavis/taxonomy-decoration-type.php:1 ../../themes/monavis/literature.
+#: php:1 ../../themes/monavis/design.php:1 ../../themes/monavis/interior-design.
+#: php:1 ../../themes/monavis/taxonomy-design-type.php:1 ../..
+#: /themes/monavis/archive-master.php:1 ../../themes/monavis/archive.php:1 ../..
+#: /themes/monavis/archive-literature.php:1 ../../themes/monavis/single.php:1 ../.
+#: ./themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ..
+#: /../themes/monavis/contacts.php:1 ../../themes/monavis/archive-product.php:1 ..
+#: /../themes/monavis/single-decoration.php:1 ../../themes/monavis/single-master.
+#: php:1 ../../themes/monavis/page.php:1 ../../themes/monavis/creative-group.php:
+#: 1 ../../themes/monavis/category.php:1
+msgid "Sale products"
+msgstr ""
+
+#: ../../themes/monavis/single-project.php:1 ../../themes/monavis/func/posttypes.
+#: php:142
+msgid "All projects"
+msgstr ""
+
+#: ../../themes/monavis/single-project.php:1
+msgid "Recommended decoration"
+msgstr ""
+
+#: ../../themes/monavis/single-project.php:1 ../../themes/monavis/single-project.
+#: php:1
+msgid "Order design"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/taxonomy-
+#: master-type.php:1 ../../themes/monavis/decoration.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-master.php:1 ../..
+#: /themes/monavis/single-master.php:1
+msgid "Take a question"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/single-
+#: master.php:1
+msgid "Questions"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/taxonomy-
+#: master-type.php:1 ../../themes/monavis/single-master.php:1 ../..
+#: /themes/monavis/single-master.php:1 ../../themes/monavis/single-master.php:1
+msgid "Course"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: /../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Cart"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: /../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1 ../..
+#: /themes/monavis/order/order-details.php:1 ../../themes/monavis/checkout/form-
+#: pay.php:1 ../../themes/monavis/checkout/review-order.php:1 ../..
+#: /themes/monavis/cart/cart.php:1
+msgid "Product"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: /../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Qt-ity"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: /../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1 ../..
+#: /themes/monavis/cart/cart.php:1
+msgid "Price"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: /../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Products:"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: /../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1 ../..
+#: /themes/monavis/checkout/thankyou.php:1
+msgid "Total:"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: /../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Submit order"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:
+#: 1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/archive-master.php:1 ../.
+#: ./themes/monavis/archive.php:1 ../../themes/monavis/archive-literature.php:1 ..
+#: /../themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/archive-product.php:1 ../../themes/monavis/single-master.php:
+#: 1 ../../themes/monavis/page.php:1 ../../themes/monavis/category.php:1
+msgid "Go to cart"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/taxonomy-
+#: master-type.php:1 ../../themes/monavis/taxonomy-master-type.php:1 ../..
+#: /themes/monavis/taxonomy-master-type.php:1 ../../themes/monavis/index.php:1 ..
+#: /../themes/monavis/index.php:1 ../../themes/monavis/index.php:1 ../..
+#: /themes/monavis/index.php:1 ../../themes/monavis/taxonomy-product_cat.php:1 ..
+#: /../themes/monavis/taxonomy-product_cat.php:1 ../../themes/monavis/taxonomy-
+#: product_cat.php:1 ../../themes/monavis/taxonomy-product_cat.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/literature.php:1 ../..
+#: /themes/monavis/literature.php:1 ../../themes/monavis/literature.php:1 ../..
+#: /themes/monavis/archive-master.php:1 ../../themes/monavis/archive-master.php:1 
+#: ../../themes/monavis/archive-master.php:1 ../../themes/monavis/archive-master.
+#: php:1 ../../themes/monavis/archive.php:1 ../../themes/monavis/archive.php:1 ..
+#: /../themes/monavis/archive.php:1 ../../themes/monavis/archive.php:1 ../..
+#: /themes/monavis/archive-literature.php:1 ../../themes/monavis/archive-
+#: literature.php:1 ../../themes/monavis/archive-literature.php:1 ../..
+#: /themes/monavis/archive-literature.php:1 ../../themes/monavis/single.php:1 ../.
+#: ./themes/monavis/single.php:1 ../../themes/monavis/single.php:1 ../..
+#: /themes/monavis/single.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/sidebar.php:1 ../../themes/monavis/sidebar.php:1 ../..
+#: /themes/monavis/sidebar.php:1 ../../themes/monavis/decoration.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/decoration.php:1 ../..
+#: /themes/monavis/decoration.php:1 ../../themes/monavis/single-product.php:1 ../.
+#: ./themes/monavis/single-product.php:1 ../../themes/monavis/single-product.php:
+#: 1 ../../themes/monavis/single-product.php:1 ../../themes/monavis/archive-
+#: product.php:1 ../../themes/monavis/archive-product.php:1 ../..
+#: /themes/monavis/archive-product.php:1 ../../themes/monavis/archive-product.php:
+#: 1 ../../themes/monavis/single-master.php:1 ../../themes/monavis/single-master.
+#: php:1 ../../themes/monavis/single-master.php:1 ../../themes/monavis/single-
+#: master.php:1 ../../themes/monavis/page.php:1 ../../themes/monavis/page.php:1 ..
+#: /../themes/monavis/page.php:1 ../../themes/monavis/page.php:1 ../..
+#: /themes/monavis/category.php:1 ../../themes/monavis/category.php:1 ../..
+#: /themes/monavis/category.php:1 ../../themes/monavis/category.php:1
+msgid "Show all"
+msgstr ""
+
+#: ../../themes/monavis/archive-decoration.php:1 ../../themes/monavis/taxonomy-
+#: decoration-type.php:1
+msgid "Photo"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-product_cat.php:1 ../../themes/monavis/single-
+#: product.php:1
+msgid "Regular price:"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-product_cat.php:1 ../../themes/monavis/single-
+#: product.php:1
+msgid "Sale price:"
+msgstr ""
+
+#. Name of the template
+msgid "Decoration Service"
+msgstr ""
+
+#: ../../themes/monavis/decoration-service.php:1 ../../themes/monavis/decoration.
+#: php:1
+msgid "Decoration gallery"
+msgstr ""
+
+#: ../../themes/monavis/decoration-service.php:1 ../../themes/monavis/taxonomy-
+#: decoration-type.php:1 ../../themes/monavis/taxonomy-decoration-type.php:1 ../..
+#: /themes/monavis/interior-design.php:1 ../../themes/monavis/taxonomy-design-
+#: type.php:1 ../../themes/monavis/decoration.php:1 ../../themes/monavis/single-
+#: decoration.php:1
+msgid "See all"
+msgstr ""
+
+#: ../../themes/monavis/taxonomy-decoration-type.php:1 ../..
+#: /themes/monavis/single-decoration.php:1
+msgid "Recommended products"
+msgstr ""
+
+msgid "Literature"
+msgstr ""
+
+#: ../../themes/monavis/literature.php:1 ../../themes/monavis/archive-literature.
+#: php:1
+msgid "Order"
+msgstr ""
+
+#. Name of the template
+msgid "Design"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:91
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:106
+msgid "Header Menu"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:107
+msgid "Footer Menu"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:133
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:141
+msgid "Side Sidebar"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:361
+msgid "Home page"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:363
+msgid "Count"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:523 ../../themes/monavis/functions.php:523 .
+#: ./../themes/monavis/func/admin-options.php:15
+msgid "Theme settings"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:593
+#, php-format
+msgid "Show all %s"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:699
+msgid "News for"
+msgstr ""
+
+#: ../../themes/monavis/functions.php:724
+msgid "uah"
+msgstr ""
+
+#. Name of the template
+msgid "Interior Design"
+msgstr ""
+
+#: ../../themes/monavis/interior-design.php:1
+msgid "Gallery"
+msgstr ""
+
+msgid "Decoration"
+msgstr ""
+
+#: ../../themes/monavis/decoration.php:1
+msgid "Read more"
+msgstr ""
+
+#: ../../themes/monavis/single-product.php:1
+msgid "In stock"
+msgstr ""
+
+#: ../../themes/monavis/single-product.php:1
+msgid "Add to cart"
+msgstr ""
+
+#: ../../themes/monavis/single-product.php:1 ../../themes/monavis/func/metabox.
+#: php:132 ../../themes/monavis/func/metabox.php:163
+msgid "Related products"
+msgstr ""
+
+#. Name of the template
+msgid "Contacts"
+msgstr ""
+
+#: ../../themes/monavis/contacts.php:1 ../../themes/monavis/order/order-details.
+#: php:1 ../../themes/monavis/order/order-details.php:1
+msgid "Address"
+msgstr ""
+
+#: ../../themes/monavis/contacts.php:1
+msgid "Map"
+msgstr ""
+
+#: ../../themes/monavis/contacts.php:1
+msgid "Phones"
+msgstr ""
+
+#: ../../themes/monavis/contacts.php:1
+msgid "Call"
+msgstr ""
+
+#: ../../themes/monavis/contacts.php:1
+msgid "Working regime"
+msgstr ""
+
+#: ../../themes/monavis/single-master.php:1 ../../themes/monavis/func/dynamic-
+#: metabox.php:23
+msgid "Timetable"
+msgstr ""
+
+#. Name of the template
+msgid "Creative Group"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Order Details"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1 ../..
+#: /themes/monavis/checkout/review-order.php:1 ../..
+#: /themes/monavis/checkout/review-order.php:1 ../../themes/monavis/cart/cart-
+#: totals.php:1 ../../themes/monavis/cart/cart.php:1
+msgid "Total"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1 ../..
+#: /themes/monavis/order/order-details.php:1
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Refunded:"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Note:"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "First Name"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Last Name"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Company Name"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1 ../..
+#: /themes/monavis/cart/shipping-calculator.php:1
+msgid "City"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "County"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Postcode"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Country"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1 ../../themes/monavis/func/theme-
+#: options.php:47
+msgid "Phone"
+msgstr ""
+
+#: ../../themes/monavis/order/order-details.php:1
+msgid "Email Address"
+msgstr ""
+
+#: ../../themes/monavis/func/woo-commerce.php:8
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../../themes/monavis/func/woo-commerce.php:46
+msgid "required"
+msgstr ""
+
+#: ../../themes/monavis/func/woo-commerce.php:104 ../..
+#: /themes/monavis/cart/shipping-calculator.php:1
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../../themes/monavis/func/woo-commerce.php:112
+msgid "Update country"
+msgstr ""
+
+#: ../../themes/monavis/func/woo-commerce.php:156 ../..
+#: /themes/monavis/cart/shipping-calculator.php:1
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../../themes/monavis/func/woo-commerce.php:316
+msgid "Choose an option"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:14
+msgid "Slides"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:15
+msgid "Slide"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:16 ../../themes/monavis/func/posttypes.
+#: php:18
+msgid "Add Slide"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:17
+msgid "All Slides"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:19
+msgid "Edit Slide"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:20
+msgid "New Slide"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:21
+msgid "Show Slide"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:22
+msgid "Search Slide"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:23
+msgid "Slides not found"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:24
+msgid "Slides not found in trash"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:59 ../../themes/monavis/func/posttypes.
+#: php:61
+msgid "Add literature"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:60
+msgid "All literature"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:62
+msgid "Edit literature"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:63
+msgid "New literature"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:64
+msgid "Show literature"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:65
+msgid "Search literature"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:66
+msgid "Literature not found"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:67
+msgid "Literature not found in trash"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:98
+msgid "Team"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:99
+msgid "Team member"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:100 ../..
+#: /themes/monavis/func/posttypes.php:102
+msgid "Add team member"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:101
+msgid "All team members"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:103
+msgid "Edit team member"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:104
+msgid "New team member"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:105
+msgid "Show team member"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:106
+msgid "Search team member"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:107
+msgid "Team member not found"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:108
+msgid "Team member not found in trash"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:139
+msgid "Projects"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:140
+msgid "Project"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:141 ../..
+#: /themes/monavis/func/posttypes.php:143
+msgid "Add project"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:144
+msgid "Edit project"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:145
+msgid "New project"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:146
+msgid "Show project"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:147
+msgid "Search projects"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:148
+msgid "Projects not found"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:149
+msgid "Projects not found in trash"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:182 ../..
+#: /themes/monavis/func/posttypes.php:184
+msgid "Add decoration"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:183
+msgid "All decorations"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:185
+msgid "Edit decoration"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:186
+msgid "New decoration"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:187
+msgid "Show decoration"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:188
+msgid "Search decorations"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:189
+msgid "Decorations not found"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:190
+msgid "Decorations not found in trash"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:221
+msgid "Study"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:222
+msgid "Master class"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:223 ../..
+#: /themes/monavis/func/posttypes.php:225
+msgid "Add master class"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:224
+msgid "All masters classes"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:226
+msgid "Edit master class"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:227
+msgid "New master class"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:228
+msgid "Show master class"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:229
+msgid "Search masters classes"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:230
+msgid "Master classes not found"
+msgstr ""
+
+#: ../../themes/monavis/func/posttypes.php:231
+msgid "Master classes not found in trash"
+msgstr ""
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:10
+msgid "<i class=\"glyphicon glyphicon-chevron-left\"></i>"
+msgstr ""
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:11
+msgid "<i class=\"glyphicon glyphicon-chevron-right\"></i>"
+msgstr ""
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:56
+msgid "First"
+msgstr ""
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:58
+msgid "previous"
+msgstr ""
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:73
+msgid "next"
+msgstr ""
+
+#: ../../themes/monavis/func/bootstrap-pagination.php:77
+msgid "Last"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:12
+msgid "slide options"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:21
+msgid "Team Details"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:30
+msgid "Decortion options"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:39
+msgid "Project options"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:48
+msgid "Literature details"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:57
+msgid "Page options"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:72
+msgid "Main"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:73
+msgid "Show on homepage"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:88
+msgid "Position"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:103
+msgid "Author"
+msgstr ""
+
+#: ../../themes/monavis/func/metabox.php:192
+msgid "Design types"
+msgstr ""
+
+#: ../../themes/monavis/func/admin-options.php:7
+msgid "Setting saved"
+msgstr ""
+
+#: ../../themes/monavis/func/admin-options.php:8
+msgid "Settings reset"
+msgstr ""
+
+#: ../../themes/monavis/func/admin-options.php:18
+msgid "General"
+msgstr ""
+
+#: ../../themes/monavis/func/admin-options.php:19
+msgid "Socials"
+msgstr ""
+
+#: ../../themes/monavis/func/admin-options.php:20 ../../themes/monavis/func/theme-
+#: options.php:40
+msgid "Contact"
+msgstr ""
+
+#: ../../themes/monavis/func/admin-options.php:21
+msgid "Messages"
+msgstr ""
+
+#: ../../themes/monavis/func/admin-options.php:221
+msgid "Save changes"
+msgstr ""
+
+#: ../../themes/monavis/func/admin-options.php:229
+msgid "Reset"
+msgstr ""
+
+#: ../../themes/monavis/func/breadcrumbs.php:46
+msgid "Home"
+msgstr ""
+
+#: ../../themes/monavis/func/breadcrumbs.php:87
+msgid "Search results for :"
+msgstr ""
+
+#: ../../themes/monavis/func/breadcrumbs.php:222
+msgid "Error 404"
+msgstr ""
+
+#: ../../themes/monavis/func/breadcrumbs.php:231
+msgid "Page"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:7
+msgid "General Settings"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:9
+msgid "Google Analytics Code"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:10
+msgid "Enter Your google analytics here."
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:16
+msgid "Social settings"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:18
+msgid "Facebook"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:19
+msgid "Fb link"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:23
+msgid "VK"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:24
+msgid "VK link"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:28
+msgid "Pinterest"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:29
+msgid "Pinterest link"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:33
+msgid "Instagram"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:34
+msgid "Instagram link"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:42
+msgid "Adress"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:43
+msgid "Adress of company"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:48
+msgid "Company cellphone"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:52
+msgid "Mobile"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:53
+msgid "Company mobile phone"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:57
+msgid "Google Map Code"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:58
+msgid "Enter Your google map here."
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:62
+msgid "Working hours"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:63
+msgid "Shop working hours."
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:69
+msgid "Message settings"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:71
+msgid "Success"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:72
+msgid "Success ajax message"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:76
+msgid "Empty"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:77
+msgid "Empty ajax message"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:81
+msgid "Send before"
+msgstr ""
+
+#: ../../themes/monavis/func/theme-options.php:82
+msgid "Send before ajax message"
+msgstr ""
+
+#: ../../themes/monavis/func/dynamic-metabox.php:44 ../..
+#: /themes/monavis/func/dynamic-metabox.php:60
+msgid "Course name"
+msgstr ""
+
+#: ../../themes/monavis/func/dynamic-metabox.php:44 ../..
+#: /themes/monavis/func/dynamic-metabox.php:60
+msgid "Course time"
+msgstr ""
+
+#: ../../themes/monavis/func/dynamic-metabox.php:44 ../..
+#: /themes/monavis/func/dynamic-metabox.php:60
+msgid "Remove timeline"
+msgstr ""
+
+#: ../../themes/monavis/func/dynamic-metabox.php:52
+msgid "Add timeline"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:11 ../..
+#: /themes/monavis/func/taxonomies.php:21
+msgid "Slide categories"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:12
+msgid "Slide category"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:13
+msgid "Search slide category"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:14
+msgid "All slide categories"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:15
+msgid "Parent slide category"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:16 ../..
+#: /themes/monavis/func/taxonomies.php:33 ../../themes/monavis/func/taxonomies.
+#: php:49 ../../themes/monavis/func/taxonomies.php:65
+msgid "Parent"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:17
+msgid "Edit slide category"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:18
+msgid "Update slide category"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:19
+msgid "Add slide category"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:20
+msgid "New slide category name"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:28
+msgid "Decoration types"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:29
+msgid "Decoration type"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:30 ../..
+#: /themes/monavis/func/taxonomies.php:46 ../../themes/monavis/func/taxonomies.
+#: php:62
+msgid "Search type"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:31 ../..
+#: /themes/monavis/func/taxonomies.php:47 ../../themes/monavis/func/taxonomies.
+#: php:63
+msgid "All"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:32 ../..
+#: /themes/monavis/func/taxonomies.php:48 ../../themes/monavis/func/taxonomies.
+#: php:64
+msgid "Parent type"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:34 ../..
+#: /themes/monavis/func/taxonomies.php:50 ../../themes/monavis/func/taxonomies.
+#: php:66
+msgid "Edit type"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:35 ../..
+#: /themes/monavis/func/taxonomies.php:51 ../../themes/monavis/func/taxonomies.
+#: php:67
+msgid "Update type"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:36 ../..
+#: /themes/monavis/func/taxonomies.php:52 ../../themes/monavis/func/taxonomies.
+#: php:68
+msgid "Add types"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:37 ../..
+#: /themes/monavis/func/taxonomies.php:53 ../../themes/monavis/func/taxonomies.
+#: php:69
+msgid "New type name"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:38 ../..
+#: /themes/monavis/func/taxonomies.php:54 ../../themes/monavis/func/taxonomies.
+#: php:70
+msgid "Types"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:44
+msgid "Project types"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:45
+msgid "Project type"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:60
+msgid "Master class types"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies.php:61
+msgid "Master class type"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:53
+msgid "Image"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:54
+msgid "Upload image"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:55 ../..
+#: /themes/monavis/func/taxonomies-attributes.php:57
+msgid "Select Image"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:56
+msgid "Remove"
+msgstr ""
+
+#: ../../themes/monavis/func/taxonomies-attributes.php:58
+msgid "Select"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-billing.php:1
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-billing.php:1
+msgid "Billing Details"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-billing.php:1
+msgid "Create an account?"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-billing.php:1
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid "Qty"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid "Totals"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid "Payment"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-pay.php:1
+msgid "Pay for order"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-login.php:1
+msgid "Returning customer?"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-login.php:1
+msgid "Click here to login"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-login.php:1
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-shipping.php:1
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-shipping.php:1
+msgid "Additional Information"
+msgstr ""
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction."
+msgstr ""
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "Pay"
+msgstr ""
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "My Account"
+msgstr ""
+
+#: ../../themes/monavis/checkout/thankyou.php:1 ../..
+#: /themes/monavis/checkout/thankyou.php:1
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "Order Number:"
+msgstr ""
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "Date:"
+msgstr ""
+
+#: ../../themes/monavis/checkout/thankyou.php:1
+msgid "Payment Method:"
+msgstr ""
+
+#: ../../themes/monavis/checkout/cart-errors.php:1
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../../themes/monavis/checkout/cart-errors.php:1
+msgid "Return To Cart"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-coupon.php:1
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-coupon.php:1 ../../themes/monavis/cart/cart.
+#: php:1
+msgid "Coupon"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-coupon.php:1 ../../themes/monavis/cart/cart.
+#: php:1
+msgid "Coupon code"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-coupon.php:1 ../../themes/monavis/cart/cart.
+#: php:1
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-checkout.php:1
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../../themes/monavis/checkout/form-checkout.php:1
+msgid "Your order"
+msgstr ""
+
+#: ../../themes/monavis/checkout/review-order.php:1 ../..
+#: /themes/monavis/cart/cart-totals.php:1
+msgid "Subtotal"
+msgstr ""
+
+#: ../../themes/monavis/checkout/payment.php:1
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: ../../themes/monavis/checkout/payment.php:1
+#, php-format
+msgid ""
+"I have read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: ../../themes/monavis/global/quantity-input.php:1
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-totals.php:1
+msgid "Cart Totals"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-totals.php:1 ../../themes/monavis/cart/cart-
+#: shipping.php:1 ../../themes/monavis/cart/cart-shipping.php:1
+msgid "Shipping"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-totals.php:1
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-totals.php:1
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-empty.php:1
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-empty.php:1
+msgid "Return To Shop"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart.php:1
+msgid "Quantity"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart.php:1 ../../themes/monavis/cart/mini-cart.php:1
+msgid "Remove this item"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart.php:1
+msgid "Available on backorder"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart.php:1
+msgid "Update Cart"
+msgstr ""
+
+#: ../../themes/monavis/cart/mini-cart.php:1
+msgid "No products in the cart."
+msgstr ""
+
+#: ../../themes/monavis/cart/shipping-calculator.php:1
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../../themes/monavis/cart/shipping-calculator.php:1
+msgid "Update Totals"
+msgstr ""
+
+#: ../../themes/monavis/cart/cross-sells.php:1
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-shipping.php:1
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-shipping.php:1
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-shipping.php:1
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-shipping.php:1
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../../themes/monavis/cart/cart-shipping.php:1 ../../themes/monavis/cart/cart-
+#: shipping.php:1
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#. Name of the theme
+msgid "Monavis"
+msgstr ""
+
+#. Author of the theme
+msgid "Iskra"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://digital.iskra.ua/"
+msgstr ""
